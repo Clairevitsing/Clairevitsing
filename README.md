@@ -1,7 +1,5 @@
 # Claire ZHAO
 
-[![13311958945834611.jpg](https://i.postimg.cc/261rP9S5/13311958945834611.jpg)](https://postimg.cc/Q9Z27b5L)
-
 ### Hi everyone 👋
 ### - 🌱 I’m currently learning web design.
 ### - 👯 I’m looking to communicate with you. As a beginner,
