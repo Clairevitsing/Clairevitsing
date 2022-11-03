@@ -1,3 +1,4 @@
+## Claire ZHAO
 ### Hi everyone 👋
 ### I am currently participating in a computer training for becoming a web developer. As a beginner, I would like to communicate with you and ask for your advices.
 
