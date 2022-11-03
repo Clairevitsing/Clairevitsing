@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi everyone 👋
+### I am currently participating in a computer training for becoming a web developer. As a beginner, I would like to communicate with you and ask for your advices.
 
 <!--
 **Clairevitsing/Clairevitsing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
