@@ -1,12 +1,15 @@
-## Claire ZHAO
+# Claire ZHAO
 ### Hi everyone 👋
 ### I am currently participating in a computer training for becoming a web developer. As a beginner, I would like to communicate with you and ask for your advices.
 
-|         |        Contact              |
+|         |      Contact                |
 |---------|-----------------------------|
 | Address | Saint-Genis-Laval, French   |
 | Email   | zhaoclaire11@gmail.com      |
 
+##Key Skills
+* Computer (HTML, CSS, JS, PHP, Symfony, SQL, Angular, Java, C++, Python)
+* Langues (Chinese, English, French)
 
 
 !--
