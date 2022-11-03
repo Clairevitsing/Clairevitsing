@@ -7,9 +7,9 @@
 | Address | Saint-Genis-Laval, French   |
 | Email   | zhaoclaire11@gmail.com      |
 
-##Key Skills
-* Computer (HTML, CSS, JS, PHP, Symfony, SQL, Angular, Java, C++, Python)
-* Langues (Chinese, English, French)
+## Key Skills
+* ### Computer (HTML, CSS, JS, PHP, Symfony, SQL, Angular, Java, C++, Python)
+* ### Langues (Chinese, English, French)
 
 
 !--
