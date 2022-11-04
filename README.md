@@ -1,6 +1,7 @@
 # Claire ZHAO
 
-![你好！](https://www.asqql.com/s/?u=https://upfile.asqql.com/2009pasdfasdfic2009s305985-ts/2015-9/201593016113819979.gif)
+<iframe src="https://giphy.com/embed/PCDrjJnpj0nutNvqkE" width="480" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/TikiIndia-love-loveyou-ilu-PCDrjJnpj0nutNvqkE">via GIPHY</a></p>
+
 
 ### Hi everyone 👋
 ### - 🌱 I’m currently learning web design.
