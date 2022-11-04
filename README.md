@@ -1,6 +1,6 @@
 # Claire ZHAO
 
-![] (https://giphy.com/embed/PCDrjJnpj0nutNvqkE)
+![] (https://media.giphy.com/media/w8Upep6S40BHX48ggp/giphy.gif)
 
 
 
