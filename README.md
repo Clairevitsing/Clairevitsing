@@ -1,6 +1,7 @@
 # Claire ZHAO
 
-<iframe src="https://giphy.com/embed/PCDrjJnpj0nutNvqkE" width="480" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/TikiIndia-love-loveyou-ilu-PCDrjJnpj0nutNvqkE">via GIPHY</a></p>
+![] (https://giphy.com/embed/PCDrjJnpj0nutNvqkE)
+
 
 
 ### Hi everyone 👋
